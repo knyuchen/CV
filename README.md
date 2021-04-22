@@ -1,7 +1,7 @@
 # KUAN-YU CHEN
 
 ## Summary
-**PhD ECE** student interested in **Integrated Circuits** industry, specialized in **Accelerator Architecture** & **DSP**
+**PhD ECE** student interested in **Integrated Circuits** industry, specialized in **Accelerator Architecture** 
 
 
 ## Education
@@ -14,7 +14,7 @@
     * EECS 427 VLSI Design I
     * EECS 470 Computer Architecture
     * EECS 523 Digital Integrated Technology
-    * EECS 598 VLSI forCommunication and Machine Learning
+    * EECS 598 VLSI for Communication and Machine Learning
     * EECS 598 Accelerated Systems For AI And Health
     * EECS 573 Microarchitecture
     * EECS 579 Integrated Circuits Testing 
