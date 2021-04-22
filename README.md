@@ -73,6 +73,7 @@
   * Collaborated Projects
     * Transmuter:  Software-Defined Reconfigurable Computer (taped-out in TSMC 28nm process)
     * NBLL: Narrow Band Localization (taped-out in Fujitsu 55nm process)
+    * FlexTPU: an Efficient Systolic Array Framework to Handle SpMV (submitted to 2021 MICRO)
 
 
 ## Honors & Awards
