@@ -5,8 +5,12 @@
 
 
 ## Education
-* University of Michigan, Ann Arbor,Ph.D, Electrical and Computer Engineering
-
+* University of Michigan, Ann Arbor,Ph.D, Electrical and Computer Engineering (GPA:4.00/4.00)
+    * Relevant Courses :  
+    
+       * EECS 573 Microarchitecture
+       * EECS 579 Integrated Circuits Testing 
+    
 * University of Michigan, Ann Arbor,M.S., Electrical and Computer Engineering (GPA:4.00/4.00)
   * Graduation Date : 04/2020
   * Relevant Courses : 
@@ -16,8 +20,6 @@
     * EECS 523 Digital Integrated Technology
     * EECS 598 VLSI for Communication and Machine Learning
     * EECS 598 Accelerated Systems For AI And Health
-    * EECS 573 Microarchitecture
-    * EECS 579 Integrated Circuits Testing 
     * EECS 627 VLSI Design II
 * National Taiwan University (NTU) ,B.S., Electrical Engineering (GPA:4.15/4.30)
   * Graduation Date : 01/2018
