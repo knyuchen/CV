@@ -27,9 +27,9 @@
 
 ## Publications
 
-* S. Kim et.  al ”Versa:  A Dataflow-Centric Multiprocessor with 36 Systolic ARM Cortex-M4F Cores and a ReconfigurableCrossbar-Memory Hierarchy in 28nm,” IEEE Symposium on VLSI Circuits (VLSI-Symp), June 2021
+* S. Kim et.  al ”Versa:  A Dataflow-Centric Multiprocessor with 36 Systolic ARM Cortex-M4F Cores and a Reconfigurable Crossbar-Memory Hierarchy in 28nm,” IEEE Symposium on VLSI Circuits (VLSI-Symp), June 2021
 
-* D.H. Park et.  al ”A 7.3 M Output Non-Zeros/J, 11.7 M Output Non-Zeros/GB Reconfigurable Sparse Matrix-MatrixMultiplication Accelerator,” IEEE Journal of Solid State Circuits (JSSC), Vol.  55, No.  4, January 2020, pgs.  933-944
+* D.H. Park et.  al ”A 7.3 M Output Non-Zeros/J, 11.7 M Output Non-Zeros/GB Reconfigurable Sparse Matrix-Matrix Multiplication Accelerator,” IEEE Journal of Solid State Circuits (JSSC), Vol.  55, No.  4, January 2020, pgs.  933-944
 * S. Pal et.  al ”A 7.3 M Output Non-Zeros/J Sparse Matrix-Matrix Multiplication Accelerator using Memory Reconfigurationin 40 nm,” IEEE Symposium on VLSI Circuits (VLSI-Symp), June 2019
 
 ## Skills
