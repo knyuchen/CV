@@ -26,7 +26,7 @@
 
 
 ## Publications
-
+* H. Sadasivan et.  al "SquiggleFilter: An Accelerator for Portable Virus Detection," International Symposium on Microarchitecture (MICRO), Oct. 2021
 * S. Kim et.  al ”Versa:  A Dataflow-Centric Multiprocessor with 36 Systolic ARM Cortex-M4F Cores and a Reconfigurable Crossbar-Memory Hierarchy in 28nm,” IEEE Symposium on VLSI Circuits (VLSI-Symp), June 2021
 
 * D.H. Park et.  al ”A 7.3 M Output Non-Zeros/J, 11.7 M Output Non-Zeros/GB Reconfigurable Sparse Matrix-Matrix Multiplication Accelerator,” IEEE Journal of Solid State Circuits (JSSC), Vol.  55, No.  4, January 2020, pgs.  933-944
@@ -75,7 +75,7 @@
   * Collaborated Projects
     * Transmuter:  Software-Defined Reconfigurable Computer (taped-out in TSMC 28nm process)
     * NBLL: Narrow Band Localization (taped-out in Fujitsu 55nm process)
-    * FlexTPU: an Efficient Systolic Array Framework to Handle SpMV (submitted to 2021 MICRO)
+    
 
 
 ## Honors & Awards
