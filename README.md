@@ -70,7 +70,7 @@
 * Michigan Integrated Circuits Laboratory, University of Michigan 
   * Advisor:  Prof.  David Blaauw
   * Lead Projects
-    * Reconfigurable Multi-Thread FFT & FIR Acceleratorsportable on FPGA
+    * Reconfigurable FFT & FIR Accelerators with AXI compliance
     * DAP: Domain Adaptive Processor for ML & Wireless Communication (taped-out in GF 12nm process)
   * Collaborated Projects
     * Transmuter:  Software-Defined Reconfigurable Computer (taped-out in TSMC 28nm process)
