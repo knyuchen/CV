@@ -74,8 +74,8 @@
     * Reconfigurable FFT & FIR Accelerators with AXI compliance
     
   * Collaborated Projects
-    * Transmuter:  Software-Defined Reconfigurable Computer (taped-out in TSMC 28nm process)
     * NBLL: Narrow Band Localization (taped-out in Fujitsu 55nm process)
+    * Transmuter:  Software-Defined Reconfigurable Computer (taped-out in TSMC 28nm process)
     
 
 
