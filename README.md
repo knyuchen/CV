@@ -65,7 +65,7 @@
   * 07/2016 - 08/2016
 
 
-## Research Experiences (3 real silicon tape-out)
+## Research Experiences (4 real silicon tape-out)
 
 * Michigan Integrated Circuits Laboratory, University of Michigan 
   * Advisor:  Prof.  David Blaauw
@@ -74,8 +74,9 @@
     * Reconfigurable FFT & FIR Accelerators with AXI compliance
     
   * Collaborated Projects
+    * DASH-SoC: Domain-Focused Advanced Software-Reconfigurable Heterogeneous SoC (tape-out in GF 12nm process)  
     * Narrow Band Localization (taped-out in Fujitsu 55nm process)
-    * Transmuter:  Software-Defined Reconfigurable Computer (taped-out in TSMC 28nm process)
+    * Transmuter: Software-Defined Reconfigurable Computer (taped-out in TSMC 28nm process)
     
 
 
