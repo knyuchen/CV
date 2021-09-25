@@ -1,7 +1,7 @@
 # KUAN-YU CHEN
 
 ## Summary
-**PhD ECE** student interested in **Integrated Circuits** industry, specialized in **Accelerator Architecture** 
+**ECE PhD Candidate** interested in **Integrated Circuits** industry, specialized in **Accelerator Architecture** 
 
 
 ## Education
@@ -70,8 +70,9 @@
 * Michigan Integrated Circuits Laboratory, University of Michigan 
   * Advisor:  Prof.  David Blaauw
   * Lead Projects
+    * DAP: Domain Adaptive Processor for ML & Wireless Communication (taped-out in GF 12nm process) 
     * Reconfigurable FFT & FIR Accelerators with AXI compliance
-    * DAP: Domain Adaptive Processor for ML & Wireless Communication (taped-out in GF 12nm process)
+    
   * Collaborated Projects
     * Transmuter:  Software-Defined Reconfigurable Computer (taped-out in TSMC 28nm process)
     * NBLL: Narrow Band Localization (taped-out in Fujitsu 55nm process)
