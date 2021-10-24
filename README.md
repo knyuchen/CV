@@ -26,7 +26,8 @@
 
 
 ## Publications
-* H. Sadasivan et. al "SquiggleFilter: An Accelerator for Portable Virus Detection," International Symposium on Microarchitecture (MICRO), Oct. 2021
+* C. Tseng et. al "A Long-Range Narrowband RF Localization System with a Crystal-less Frequency Hopping Receiver," International Solid Stage Circuit Conference (ISSCC), Feb. 2022
+* T. Dunn et. al "SquiggleFilter: An Accelerator for Portable Virus Detection," International Symposium on Microarchitecture (MICRO), Oct. 2021
 * S. Kim et. al ”Versa:  A Dataflow-Centric Multiprocessor with 36 Systolic ARM Cortex-M4F Cores and a Reconfigurable Crossbar-Memory Hierarchy in 28nm,” IEEE Symposium on VLSI Circuits (VLSI-Symp), June 2021
 
 * D.H. Park et. al ”A 7.3 M Output Non-Zeros/J, 11.7 M Output Non-Zeros/GB Reconfigurable Sparse Matrix-Matrix Multiplication Accelerator,” IEEE Journal of Solid State Circuits (JSSC), Vol.  55, No.  4, January 2020, pgs.  933-944
@@ -75,8 +76,10 @@
     
   * Collaborated Projects
     * DASH-SoC: Domain-Focused Advanced Software-Reconfigurable Heterogeneous SoC (tape-out in GF 12nm process)  
-    * Narrow Band Localization (taped-out in Fujitsu 55nm process)
-    * Transmuter: Software-Defined Reconfigurable Computer (taped-out in TSMC 28nm process)
+    * Narrow Band Localization (taped-out in Fujitsu 55nm process) (accepted by 2022 ISSCC)
+    * Transmuter: Software-Defined Reconfigurable Computer (taped-out in TSMC 28nm process) (accepted by 2021 VLSI-Symp)
+    * Squiggle Filter: Portable Virus Detection Accelerator (accepted by 2021 MICRO)
+    
     
 
 
