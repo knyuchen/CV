@@ -78,7 +78,7 @@
     * DASH-SoC: Domain-Focused Advanced Software-Reconfigurable Heterogeneous SoC (tape-out in GF 12nm process)  
     * Narrow Band Localization (taped-out in Fujitsu 55nm process) (accepted by 2022 ISSCC)
     * Transmuter: Software-Defined Reconfigurable Computer (taped-out in TSMC 28nm process) (accepted by 2021 VLSI-Symp)
-    * Squiggle Filter: Portable Virus Detection Accelerator (accepted by 2021 MICRO)
+    
     
     
 
