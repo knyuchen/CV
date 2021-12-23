@@ -26,10 +26,10 @@
 
 
 ## Publications
+* S. Kim et. al ”Versa: A 36-Core Systolic Multiprocessor with Dynamically-Reconfigurable Interconnect and Memory,” IEEE Journal of Solid State Circuits (JSSC)
 * C. Tseng et. al "A Long-Range Narrowband RF Localization System with a Crystal-less Frequency Hopping Receiver," International Solid Stage Circuit Conference (ISSCC), Feb. 2022
 * T. Dunn et. al "SquiggleFilter: An Accelerator for Portable Virus Detection," International Symposium on Microarchitecture (MICRO), Oct. 2021
 * S. Kim et. al ”Versa:  A Dataflow-Centric Multiprocessor with 36 Systolic ARM Cortex-M4F Cores and a Reconfigurable Crossbar-Memory Hierarchy in 28nm,” IEEE Symposium on VLSI Circuits (VLSI-Symp), June 2021
-
 * D.H. Park et. al ”A 7.3 M Output Non-Zeros/J, 11.7 M Output Non-Zeros/GB Reconfigurable Sparse Matrix-Matrix Multiplication Accelerator,” IEEE Journal of Solid State Circuits (JSSC), Vol.  55, No.  4, January 2020, pgs.  933-944
 * S. Pal et. al ”A 7.3 M Output Non-Zeros/J Sparse Matrix-Matrix Multiplication Accelerator using Memory Reconfigurationin 40 nm,” IEEE Symposium on VLSI Circuits (VLSI-Symp), June 2019
 
