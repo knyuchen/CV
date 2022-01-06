@@ -6,15 +6,15 @@
 
 ## Education
 * University of Michigan, Ann Arbor,Ph.D, Electrical and Computer Engineering (GPA:4.00/4.00)
-    * Relevant Courses :  
-    
-       * EECS 573 Microarchitecture
-       * EECS 579 Integrated Circuits Testing 
+  * Graduation Date : 01/2024
+  * Relevant Courses :  
+    * EECS 570 Parallel Computer Architecture
+    * EECS 573 Microarchitecture
+    * EECS 579 Integrated Circuits Testing 
     
 * University of Michigan, Ann Arbor,M.S., Electrical and Computer Engineering (GPA:4.00/4.00)
   * Graduation Date : 04/2020
-  * Relevant Courses : 
-  
+  * Relevant Courses :   
     * EECS 427 VLSI Design I
     * EECS 470 Computer Architecture
     * EECS 523 Digital Integrated Technology
