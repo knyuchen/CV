@@ -26,6 +26,7 @@
 
 
 ## Publications
+* T. Dunn et. al "SquiggleFilter: An Accelerator for Portable Virus Detection," Micro Top Picks 2022, Honorable Mention
 * S. Kim et. al ”Versa: A 36-Core Systolic Multiprocessor with Dynamically-Reconfigurable Interconnect and Memory,” IEEE Journal of Solid State Circuits (JSSC)
 * C. Tseng et. al "A Long-Range Narrowband RF Localization System with a Crystal-less Frequency Hopping Receiver," International Solid Stage Circuit Conference (ISSCC), Feb. 2022
 * T. Dunn et. al "SquiggleFilter: An Accelerator for Portable Virus Detection," International Symposium on Microarchitecture (MICRO), Oct. 2021
