@@ -26,6 +26,8 @@
 
 
 ## Publications
+* S. Feng et.al "MeNDA: A Near-Memory Multi-way Merge Solution for Sparse Transposition and Dataflows," International Symposium on Computer Architecture (ISCA), June 2022
+* N. Talati et.al "NDMiner: Accelerating Graph Pattern Mining Using Near Data Processing," International Symposium on Computer Architecture (ISCA), June 2022
 * T. Dunn et. al "SquiggleFilter: An Accelerator for Portable Virus Detection," Micro Top Picks 2022, Honorable Mention
 * S. Kim et. al ”Versa: A 36-Core Systolic Multiprocessor with Dynamically-Reconfigurable Interconnect and Memory,” IEEE Journal of Solid State Circuits (JSSC)
 * C. Tseng et. al "A Long-Range Narrowband RF Localization System with a Crystal-less Frequency Hopping Receiver," International Solid Stage Circuit Conference (ISSCC), Feb. 2022
