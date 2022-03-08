@@ -8,7 +8,6 @@
 * University of Michigan, Ann Arbor,Ph.D, Electrical and Computer Engineering (GPA:4.00/4.00)
   * Graduation Date : 01/2024
   * Relevant Courses :  
-    * EECS 570 Parallel Computer Architecture
     * EECS 573 Microarchitecture
     * EECS 579 Integrated Circuits Testing 
     
@@ -26,6 +25,7 @@
 
 
 ## Publications
+* D. Bliss et.al "Enabling Software-Defined RF Convergence with a Novel Coarse-Scale Heterogeneous Processor," International Symposium on Circuits and Systems (ISCAS), May 2022
 * S. Feng et.al "MeNDA: A Near-Memory Multi-way Merge Solution for Sparse Transposition and Dataflows," International Symposium on Computer Architecture (ISCA), June 2022
 * N. Talati et.al "NDMiner: Accelerating Graph Pattern Mining Using Near Data Processing," International Symposium on Computer Architecture (ISCA), June 2022
 * T. Dunn et. al "SquiggleFilter: An Accelerator for Portable Virus Detection," MICRO Top Picks 2022, Honorable Mention
