@@ -25,12 +25,13 @@
 
 
 ## Publications
+* K.-Y. Chen et.al "A 507 GMACs/J 256-Core Domain Adaptive Systolic-Array-Processor for Wireless Communication and Linear-Algebra Kernels in 12nm FINFET," IEEE Symposium on VLSI Circuits (VLSI-Symp), June 2022
 * D. Bliss et.al "Enabling Software-Defined RF Convergence with a Novel Coarse-Scale Heterogeneous Processor," International Symposium on Circuits and Systems (ISCAS), May 2022
 * S. Feng et.al "MeNDA: A Near-Memory Multi-way Merge Solution for Sparse Transposition and Dataflows," International Symposium on Computer Architecture (ISCA), June 2022
 * N. Talati et.al "NDMiner: Accelerating Graph Pattern Mining Using Near Data Processing," International Symposium on Computer Architecture (ISCA), June 2022
 * T. Dunn et. al "SquiggleFilter: An Accelerator for Portable Virus Detection," MICRO Top Picks 2022, Honorable Mention
 * S. Kim et. al ”Versa: A 36-Core Systolic Multiprocessor with Dynamically-Reconfigurable Interconnect and Memory,” IEEE Journal of Solid State Circuits (JSSC), 2022
-* C. Tseng et. al "A Long-Range Narrowband RF Localization System with a Crystal-less Frequency Hopping Receiver," International Solid Stage Circuit Conference (ISSCC), Feb. 2022
+* C.-W. Tseng et. al "A Long-Range Narrowband RF Localization System with a Crystal-less Frequency Hopping Receiver," International Solid Stage Circuit Conference (ISSCC), Feb. 2022
 * T. Dunn et. al "SquiggleFilter: An Accelerator for Portable Virus Detection," International Symposium on Microarchitecture (MICRO), Oct. 2021
 * S. Kim et. al ”Versa:  A Dataflow-Centric Multiprocessor with 36 Systolic ARM Cortex-M4F Cores and a Reconfigurable Crossbar-Memory Hierarchy in 28nm,” IEEE Symposium on VLSI Circuits (VLSI-Symp), June 2021
 * D.H. Park et. al ”A 7.3 M Output Non-Zeros/J, 11.7 M Output Non-Zeros/GB Reconfigurable Sparse Matrix-Matrix Multiplication Accelerator,” IEEE Journal of Solid State Circuits (JSSC), Vol.  55, No.  4, January 2020, pgs.  933-944
