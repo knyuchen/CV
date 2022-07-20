@@ -25,6 +25,7 @@
 
 
 ## Publications
+* N. Talati et. al "Mint: An Accelerator For Mining Temporal Motifs," International Symposium on Microarchitecture (MICRO), Oct. 2022
 * L. Belayneh et.al "Locality-aware Optimizations for Improving Remote Memory Latency in Multi-GPU Systems," International Conference on Parallel Architectures and Compilation Techniques (PACT), Oct 2022
 * K.-Y. Chen et.al "A 507 GMACs/J 256-Core Domain Adaptive Systolic-Array-Processor for Wireless Communication and Linear-Algebra Kernels in 12nm FINFET," IEEE Symposium on VLSI Circuits (VLSI-Symp), June 2022
 * D. Bliss et.al "Enabling Software-Defined RF Convergence with a Novel Coarse-Scale Heterogeneous Processor," International Symposium on Circuits and Systems (ISCAS), May 2022
