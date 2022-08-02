@@ -36,11 +36,14 @@
 * D. Bliss et.al "Enabling Software-Defined RF Convergence with a Novel Coarse-Scale Heterogeneous Processor," International Symposium on Circuits and Systems (ISCAS), May 2022, Accepted as Lecture
 * S. Kim et. al ”Versa: A 36-Core Systolic Multiprocessor with Dynamically-Reconfigurable Interconnect and Memory,” IEEE Journal of Solid State Circuits (JSSC), Volume: 57, Issue: 4, April 2022, pgs. 986 - 998
 * C.-W. Tseng et. al "A Long-Range Narrowband RF Localization System with a Crystal-less Frequency Hopping Receiver," International Solid Stage Circuit Conference (ISSCC), Feb. 2022
+
 2021
 * T. Dunn et. al "SquiggleFilter: An Accelerator for Portable Virus Detection," International Symposium on Microarchitecture (MICRO), Oct. 2021
 * S. Kim et. al ”Versa:  A Dataflow-Centric Multiprocessor with 36 Systolic ARM Cortex-M4F Cores and a Reconfigurable Crossbar-Memory Hierarchy in 28nm,” IEEE Symposium on VLSI Circuits (VLSI-Symp), June 2021
+
 2020
 * D.H. Park et. al ”A 7.3 M Output Non-Zeros/J, 11.7 M Output Non-Zeros/GB Reconfigurable Sparse Matrix-Matrix Multiplication Accelerator,” IEEE Journal of Solid State Circuits (JSSC), Vol. 55, No. 4, Jan 2020, pgs. 933-944
+
 2019
 * S. Pal et. al ”A 7.3 M Output Non-Zeros/J Sparse Matrix-Matrix Multiplication Accelerator using Memory Reconfiguration in 40 nm,” IEEE Symposium on VLSI Circuits (VLSI-Symp), June 2019
 
