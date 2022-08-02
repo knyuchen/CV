@@ -25,10 +25,11 @@
 
 
 ## Publications
-* N. Talati et. al "Mint: An Accelerator For Mining Temporal Motifs," International Symposium on Microarchitecture (MICRO), Oct. 2022
+* X. He et.al "Squaring the circle: Executing Sparse Matrix Computations on FlexTPU—a TPU-like processor," International Conference on Parallel Architectures and Compilation Techniques (PACT), Oct 2022
 * L. Belayneh et.al "Locality-aware Optimizations for Improving Remote Memory Latency in Multi-GPU Systems," International Conference on Parallel Architectures and Compilation Techniques (PACT), Oct 2022
+* N. Talati et. al "Mint: An Accelerator For Mining Temporal Motifs," International Symposium on Microarchitecture (MICRO), Oct. 2022
 * K.-Y. Chen et.al "A 507 GMACs/J 256-Core Domain Adaptive Systolic-Array-Processor for Wireless Communication and Linear-Algebra Kernels in 12nm FINFET," IEEE Symposium on VLSI Circuits (VLSI-Symp), June 2022
-* D. Bliss et.al "Enabling Software-Defined RF Convergence with a Novel Coarse-Scale Heterogeneous Processor," International Symposium on Circuits and Systems (ISCAS), May 2022
+* D. Bliss et.al "Enabling Software-Defined RF Convergence with a Novel Coarse-Scale Heterogeneous Processor," International Symposium on Circuits and Systems (ISCAS), May 2022, accepted as lecture
 * S. Feng et.al "MeNDA: A Near-Memory Multi-way Merge Solution for Sparse Transposition and Dataflows," International Symposium on Computer Architecture (ISCA), June 2022
 * N. Talati et.al "NDMiner: Accelerating Graph Pattern Mining Using Near Data Processing," International Symposium on Computer Architecture (ISCA), June 2022
 * T. Dunn et. al "SquiggleFilter: An Accelerator for Portable Virus Detection," MICRO Top Picks 2022, Honorable Mention
