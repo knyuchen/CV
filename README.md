@@ -85,13 +85,21 @@
 * Michigan Integrated Circuits Laboratory, University of Michigan 
   * Advisor:  Prof.  David Blaauw
   * Lead Projects
-    * DAP: Domain Adaptive Processor for ML & Wireless Communication (taped-out in GF 12nm process)(accepted by 2022 VLSI-Symp)
-    * Reconfigurable FFT & FIR Accelerators with AXI compliance (Included in DASH-SoC)
+    * DAP: Domain Adaptive Processor for ML & Wireless Communication 
+      * taped-out in GF 12nm process
+      * accepted by 2022 VLSI-Symp
+    * Reconfigurable FFT & FIR Accelerators with AXI compliance 
+      * Included in DASH-SoC
     
   * Collaborated Projects
-    * DASH-SoC: Domain-Focused Advanced Software-Reconfigurable Heterogeneous SoC (tape-out in GF 12nm process)  
-    * Narrow Band Localization (taped-out in Fujitsu 55nm process) (accepted by 2022 ISSCC)
-    * Transmuter: Software-Defined Reconfigurable Computer (taped-out in TSMC 28nm process) (accepted by 2021 VLSI-Symp)
+    * DASH-SoC: Domain-Focused Advanced Software-Reconfigurable Heterogeneous SoC 
+      * taped-out in GF 12nm process  
+    * Narrow Band Localization 
+      * taped-out in Fujitsu 55nm process 
+      * accepted by 2022 ISSCC
+    * Transmuter: Software-Defined Reconfigurable Computer 
+      * taped-out in TSMC 28nm process 
+      * accepted by 2021 VLSI-Symp
     
     
     
