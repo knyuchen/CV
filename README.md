@@ -26,15 +26,15 @@
 
 ## Publications
 2022
-* X. He et.al "Squaring the circle: Executing Sparse Matrix Computations on FlexTPU—a TPU-like processor," International Conference on Parallel Architectures and Compilation Techniques (PACT), Oct 2022
-* L. Belayneh et.al "Locality-aware Optimizations for Improving Remote Memory Latency in Multi-GPU Systems," International Conference on Parallel Architectures and Compilation Techniques (PACT), Oct 2022
+* X. He et. al "Squaring the circle: Executing Sparse Matrix Computations on FlexTPU—a TPU-like processor," International Conference on Parallel Architectures and Compilation Techniques (PACT), Oct 2022
+* L. Belayneh et. al "Locality-aware Optimizations for Improving Remote Memory Latency in Multi-GPU Systems," International Conference on Parallel Architectures and Compilation Techniques (PACT), Oct 2022
 * N. Talati et. al "Mint: An Accelerator For Mining Temporal Motifs," International Symposium on Microarchitecture (MICRO), Oct. 2022
 * T. Dunn et. al "SquiggleFilter: An Accelerator for Portable Virus Detection," MICRO Top Picks, IEEE MICRO, Issue 4, July-Aug 2022, Honorable Mention
 * S. Feng et.al "MeNDA: A Near-Memory Multi-way Merge Solution for Sparse Transposition and Dataflows," International Symposium on Computer Architecture (ISCA), June 2022
 * N. Talati et.al "NDMiner: Accelerating Graph Pattern Mining Using Near Data Processing," International Symposium on Computer Architecture (ISCA), June 2022
 * K.-Y. Chen et.al "A 507 GMACs/J 256-Core Domain Adaptive Systolic-Array-Processor for Wireless Communication and Linear-Algebra Kernels in 12nm FINFET," IEEE Symposium on VLSI Circuits (VLSI-Symp), June 2022
 * D. Bliss et.al "Enabling Software-Defined RF Convergence with a Novel Coarse-Scale Heterogeneous Processor," International Symposium on Circuits and Systems (ISCAS), May 2022, Accepted as Lecture
-* S. Kim et. al ”Versa: A 36-Core Systolic Multiprocessor with Dynamically-Reconfigurable Interconnect and Memory,” IEEE Journal of Solid State Circuits (JSSC), Volume: 57, Issue: 4, April 2022, pgs. 986 - 998
+* S. Kim et. al ”Versa: A 36-Core Systolic Multiprocessor with Dynamically-Reconfigurable Interconnect and Memory,” IEEE Journal of Solid State Circuits (JSSC), Volume: 57, Issue: 4, April 2022, pgs. 986-998
 * C.-W. Tseng et. al "A Long-Range Narrowband RF Localization System with a Crystal-less Frequency Hopping Receiver," International Solid Stage Circuit Conference (ISSCC), Feb. 2022
 
 2021
@@ -85,8 +85,8 @@
 * Michigan Integrated Circuits Laboratory, University of Michigan 
   * Advisor:  Prof.  David Blaauw
   * Lead Projects
-    * DAP: Domain Adaptive Processor for ML & Wireless Communication (taped-out in GF 12nm process) 
-    * Reconfigurable FFT & FIR Accelerators with AXI compliance
+    * DAP: Domain Adaptive Processor for ML & Wireless Communication (taped-out in GF 12nm process)(accepted by 2022 VLSI-Symp)
+    * Reconfigurable FFT & FIR Accelerators with AXI compliance (Included in DASH-SoC)
     
   * Collaborated Projects
     * DASH-SoC: Domain-Focused Advanced Software-Reconfigurable Heterogeneous SoC (tape-out in GF 12nm process)  
