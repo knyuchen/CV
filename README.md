@@ -27,6 +27,7 @@
 ## Publications
 2023
 * Y. Gu et.al "GenDP: A Framework of Dynamic Programming Acceleration for Genome Sequencing Analysis," International Symposium on Computer Architecture (ISCA), June 2023
+
 2022
 * X. He et. al "Squaring the circle: Executing Sparse Matrix Computations on FlexTPU—a TPU-like processor," International Conference on Parallel Architectures and Compilation Techniques (PACT), Oct 2022
 * L. Belayneh et. al "Locality-aware Optimizations for Improving Remote Memory Latency in Multi-GPU Systems," International Conference on Parallel Architectures and Compilation Techniques (PACT), Oct 2022
