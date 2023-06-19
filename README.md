@@ -26,7 +26,8 @@
 
 ## Publications
 2023
-* Y. Gu et.al "GenDP: A Framework of Dynamic Programming Acceleration for Genome Sequencing Analysis," International Symposium on Computer Architecture (ISCA), June 2023
+* A. Krishnakumar et. al "FALCON: An FPGA Emulation Platform for Domain-Specific Systems-on-Chip (DSSoCs)," IEEE Design & Test, 2023
+* Y. Gu et. al "GenDP: A Framework of Dynamic Programming Acceleration for Genome Sequencing Analysis," International Symposium on Computer Architecture (ISCA), June 2023
 
 2022
 * X. He et. al "Squaring the circle: Executing Sparse Matrix Computations on FlexTPU—a TPU-like processor," International Conference on Parallel Architectures and Compilation Techniques (PACT), Oct 2022
