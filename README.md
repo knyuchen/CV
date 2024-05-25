@@ -25,6 +25,9 @@
 
 
 ## Publications
+2024
+* P. Abillama et. al "A 22nm 9.51 TOPS/W Neural Engine with 2MB MRAM Leveraging Sparse-Orthogonal Walsh-Hadamard Transform Computations and Dynamic Power Gating," European Solid-State Electronics Research Conference (ESSERC), September 2024
+
 2023
 * A. Krishnakumar et. al "FALCON: An FPGA Emulation Platform for Domain-Specific Systems-on-Chip (DSSoCs)," IEEE Design & Test, 2023
 * Y. Gu et. al "GenDP: A Framework of Dynamic Programming Acceleration for Genome Sequencing Analysis," International Symposium on Computer Architecture (ISCA), June 2023
@@ -71,7 +74,7 @@
 ## Work Experiences
 
 * Graduate Student Research Assistant (GSRA), University of Michigan, Ann Arbor 
-  * since 01/2019
+  * 01/2019 - 12/2023
   * Michigan Integrated Circuits Laboratory (MICL) 
   * Advisor:  Prof.  David Blaauw
 
