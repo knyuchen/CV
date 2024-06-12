@@ -27,6 +27,7 @@
 ## Publications
 2024
 * P. Abillama et. al "A 22nm 9.51 TOPS/W Neural Engine with 2MB MRAM Leveraging Sparse-Orthogonal Walsh-Hadamard Transform Computations and Dynamic Power Gating," European Solid-State Electronics Research Conference (ESSERC), September 2024
+* S. Choi et. al "ParaBase: A Configurable Parallel Baseband Processor for Ultra-High-Speed Inter-Satellite Optical Communications," International Symposium on Low Power Electronics and Design (ISLPED), August 2024
 
 2023
 * A. Krishnakumar et. al "FALCON: An FPGA Emulation Platform for Domain-Specific Systems-on-Chip (DSSoCs)," IEEE Design & Test, 2023
