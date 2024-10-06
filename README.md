@@ -26,6 +26,8 @@
 
 ## Publications
 2024
+* K.-Y. Chen et. al "Canalis: A Throughput-Optimized Framework for Real-Time Stream Processing of Wireless Communication, " ACM Transactions on Reconfigurable Technology and Systems, 2024
+* K.-Y. Chen et. al "DAP: A 507-GMACs/J 256-Core Domain Adaptive Processor for Wireless Communication and Linear Algebra Kernels in 12-nm FINFET, " IEEE Journal of Solid State Circuits (JSSC), 2024
 * P. Abillama et. al "A 22nm 9.51 TOPS/W Neural Engine with 2MB MRAM Leveraging Sparse-Orthogonal Walsh-Hadamard Transform Computations and Dynamic Power Gating," European Solid-State Electronics Research Conference (ESSERC), September 2024
 * S. Choi et. al "ParaBase: A Configurable Parallel Baseband Processor for Ultra-High-Speed Inter-Satellite Optical Communications," International Symposium on Low Power Electronics and Design (ISLPED), August 2024
 
